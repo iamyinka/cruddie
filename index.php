@@ -110,7 +110,7 @@ include('config/db.php');
     		</div>
     		
     		<div id="signup" class="tab-pane fade in">
-    			Register
+    			<?php include('user/signup.php'); ?>
     		</div>
     		
     		<div id="admin" class="tab-pane fade in">
