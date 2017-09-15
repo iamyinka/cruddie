@@ -17,7 +17,7 @@ include('config/db.php');
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>[INSERT SITE TITLE HERE]</title>
+    <title>Cruddie App</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="[ENTER SITE DESCRIPTION HERE]">
     <meta name="author" content="[ENTER AUTHOR INFO HERE]">
@@ -123,6 +123,7 @@ include('config/db.php');
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <script src="js/register.js"></script>
 </body>
 
 </html>

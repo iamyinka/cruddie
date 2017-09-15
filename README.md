@@ -2,4 +2,4 @@
 
 * Crud App With Login & Registration functions
 
-#php-validations
+#jQuery-validations
